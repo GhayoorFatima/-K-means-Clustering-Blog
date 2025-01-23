@@ -1,4 +1,4 @@
-# -K-means-Clustering-Blog
+# K-means-Clustering-Blog
 # Understanding K-Means Clustering: A Beginner’s Guide
 
 In the world of data science, clustering is one of the most fundamental techniques for analyzing and grouping data. Among various clustering methods, K-Means Clustering stands out due to its simplicity and efficiency. Whether you’re a beginner or an experienced data scientist, understanding K-Means is essential for unlocking the power of unsupervised learning.
